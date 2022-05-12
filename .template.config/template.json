@@ -1,0 +1,10 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Jeffry Gonzalez", 
+    "classifications": [ "Common", "WebApi", "MongoDb" ],
+    "identity": "Hypertheory.Templates.WebApiWithMongDb", 
+    "name": "Api With Mongo DB", 
+    "shortName": "ht-mongo-api", 
+    "sourceName": "ApiWithMongo", 
+    "preferNameDirectory": true
+   }
